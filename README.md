@@ -1,16 +1,16 @@
-## Hi there 👋
+**Ghost Developer**
 
-<!--
-**suspectDEV/suspectDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate front-end developer navigating the realms of code and creativity.
 
-Here are some ideas to get you started:
+## 📈 Development Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Wakatime Stats](https://wakatime.com/share/@your_username/wakatime.svg)  
+_This chart displays the time I've dedicated to coding._
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suspectDEV&show_icons=true&theme=radical)  
+_This chart shows my GitHub statistics._
+
+## 📊 Languages I Use
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suspectDEV&layout=compact&theme=radical)  
+_This chart illustrates the languages I use most frequently._
