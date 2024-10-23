@@ -4,7 +4,7 @@ A passionate front-end developer navigating the realms of code and creativity.
 
 ## 📈 Development Stats
 
-![Wakatime Stats](https://wakatime.com/share/@your_username/wakatime.svg)  
+![ Wakatime Stats ](https://wakatime.com/@suspectDEV)  
 _This chart displays the time I've dedicated to coding._
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suspectDEV&show_icons=true&theme=radical)  
